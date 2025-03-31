@@ -2,6 +2,7 @@
 TweetNest is a full-stack social media web application inspired by Twitter. It allows users to create accounts, post pictures, like posts, follow others, and engage in conversations through direct messaging. The platform provides an interactive and seamless experience similar to modern social networking sites.
 
 ![image](https://github.com/sai-kiran1233/Social-Media-App-/blob/894b51b3b3122070e70fa58795ad65cf1fa3d88e/Screenshot%202025-03-31%20154450.png)
+![image](https://github.com/sai-kiran1233/Social-Media-App-/blob/3ed36522f871a71415aa779760ee0c98cd845327/Screenshot%202025-03-31%20154418.png)
 
 ✨ Features
 User Authentication: Secure login and registration system.
