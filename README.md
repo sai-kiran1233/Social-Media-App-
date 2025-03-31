@@ -1,4 +1,6 @@
 # TweetNest - A Social Media App (Twitter Clone) :
+TweetNest is a full-stack social media web application inspired by Twitter. It allows users to create accounts, post pictures, like posts, follow others, and engage in conversations through direct messaging. The platform provides an interactive and seamless experience similar to modern social networking sites.
+
 ✨ Features
 User Authentication: Secure login and registration system.
 
