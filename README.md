@@ -19,12 +19,7 @@ Messaging: Private messaging functionality between users.
 Responsive UI: Clean and modern interface using React.
 
 🛠 Tech Stack
-Frontend: React, HTML, CSS
-
+Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
-
 Database: MongoDB
-
-Authentication: JWT (JSON Web Token)
-
 Styling: Tailwind CSS / Bootstrap
